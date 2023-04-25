@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋, I'm Adham Elmesady</h1>
 <h3 align="center">I'm a computer science student , interested in cybersecurity</h3>
 
+**You are the visitor number:**
+
+<p>
+  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:devbn3li"></a>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" align="right" width="100"/>
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adhamo0o&label=Profile%20views&color=0e75b6&style=flat" alt="adhamo0o" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adhamo0o" alt="adhamo0o" /></a> </p>
