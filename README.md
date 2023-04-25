@@ -9,6 +9,8 @@
 
 - 💬 Ask me about **anything, I'm happy to help**
 
+- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
+
 - 📫 How to reach me **adhamelmesady414@gmail.com**
 
 - ⚡ Fun fact **Did you know that I never thought I would become a programmer? But here I am, coding away and loving every moment of it!**
