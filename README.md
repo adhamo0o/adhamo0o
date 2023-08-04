@@ -3,7 +3,7 @@
 
 <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:adhamo0o"></a>
 <h1 align="center">Hi 👋, I'm Adham Elmesady</h1>
-<h3 align="center">I'm a computer science student , interested in cybersecurity</h3>
+<h3 align="center">Aspiring Competitive Programmer | Coding Enthusiast</h3>
 
 
 
